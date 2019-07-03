@@ -1,6 +1,7 @@
 //        Author:         Gar Waterman (Drew Lab, Pennsylvania State University, Engineering Sciences Dept.)
 //        Modified by:    Aaron Winder (Drew Lab, Pennsylvania State University, Engineering Sciences Dept.)
-//        Last Updated:   04/18/13
+//        Modified by:    Kevin Turner (Drew Lab, Pennsylvania State University, Bioengineering)   
+//        Last Updated:   07/3/19
 //        Purpose:        Drive camera exposure states and dual LED lighting states given input counter and (modification) switch between ttl pulses 
 //                        originating from a NI BNC 2059 and a BK Precision 4017a Frequency Generator so that lights are flashing between
 //                        trials and subject is not informed about when stimuli will probably occur.
