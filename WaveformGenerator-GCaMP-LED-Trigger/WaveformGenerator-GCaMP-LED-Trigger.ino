@@ -38,7 +38,7 @@ void loop()
         digitalWrite(blueLEDs, HIGH);        // Sending HIGH signal to blue LEDs 
         digitalWrite(greenLEDs, LOW);        // LOW signal to green LEDs
     }
-      else                                   // If the last state of blue LEDs was HIGH
+    else                                     // If the last state of blue LEDs was HIGH
     {
         digitalWrite(blueLEDs, LOW);         // Sending LOW signal to blue LEDs 
         digitalWrite(greenLEDs, HIGH);       // HIGH signal to green LEDs
